@@ -163,3 +163,31 @@ main section{
     padding: 30px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+
+/* resume section styles */
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.resume .section-title{
+    text-align: center;
+}
+
+.ex-subtitle, .ex-des{
+    color: #757575;
+}
+
+.resume-column-title, .ex-title{
+    color: #474747;
+}
+
+.ex-subtitle{
+    margin-top: -13px;
+}
+
+.resume-btn{
+    margin-top: 50px;
+    text-align: center;
+}
